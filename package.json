@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-jsobfuscator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rewire CRA to use JSObfuscator",
   "main": "index.js",
   "repository": "https://github.com/stevefan1999/react-app-rewire-jsobfuscator",
