@@ -6,7 +6,7 @@
   "repository": "https://github.com/stevefan1999/react-app-rewire-jsobfuscator",
   "author": "Steve Fan <stevefan1999@gmail.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "webpack-obfuscator": "^0.13.0"
   }
 }
