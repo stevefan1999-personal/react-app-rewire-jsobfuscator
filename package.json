@@ -1,12 +1,12 @@
 {
   "name": "react-app-rewire-jsobfuscator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Rewire CRA to use JSObfuscator",
   "main": "index.js",
   "repository": "https://github.com/stevefan1999/react-app-rewire-jsobfuscator",
   "author": "Steve Fan <stevefan1999@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "webpack-obfuscator": "^0.13.0"
+    "webpack-obfuscator": "^0.14.2"
   }
 }
